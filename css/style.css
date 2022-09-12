@@ -1,4 +1,11 @@
 .sfondo-logo{
-    background-image: url("img/logo.svg");
-   
+    height: 150px;
+    background-color: aqua;
+    background-image: url("../img/pattern.png");
+}
+.logo{
+    width: 200px;
+    position: relative;
+    top: 80px;
+
 }
