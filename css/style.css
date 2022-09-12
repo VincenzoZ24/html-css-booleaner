@@ -11,7 +11,11 @@
 }
 .info{
     color: grey;
+    
 }
 #autore{
-    color: black;
+    color: rgb(23, 129, 194);
+}
+.primo-blocco-img{
+    margin-top: 25px;
 }
