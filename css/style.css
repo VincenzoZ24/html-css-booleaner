@@ -33,10 +33,13 @@
 }
 
 .tabella{
-    width: 800px;
-    height:200px;
+    width: 100%;
+    
+    text-align: justify;
+    text-align:left;
     
 }
 .riga-colorata{
     background-color: aqua;
+    
 }
