@@ -25,3 +25,18 @@
 .frase-importante{
     background-color: yellow;
 }
+.intestazioni-tab{
+    background-color: blue;
+    color: white;
+    text-align: left;
+   
+}
+
+.tabella{
+    width: 800px;
+    height:200px;
+    
+}
+.riga-colorata{
+    background-color: aqua;
+}
